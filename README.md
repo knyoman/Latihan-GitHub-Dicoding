@@ -2,7 +2,8 @@
 
 26 Agustus 2025
 
-Belajar kelas Belajar dasar Git dengan GitHub 
+Hari ini saya mengikuti salah satu kelas di Dicoding dengan topik Belajar Dasar Git dengan GitHub. Materi yang dipelajari meliputi:
+
 1. Git dengan GitHub
 2. Dasar Git
 3. Studi kasus pengalaman belajar
