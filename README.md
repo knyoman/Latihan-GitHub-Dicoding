@@ -2,7 +2,7 @@
 
 26 Agustus 2025
 
-Hari ini saya mengikuti salah satu kelas di Dicoding dengan topik Belajar Dasar Git dengan GitHub. Materi yang dipelajari meliputi:
+Hari ini saya mengikuti salah satu kelas di Dicoding dengan topik Belajar Dasar Git dengan GitHub. <br> Materi yang dipelajari meliputi:
 
 1. Git dengan GitHub
 2. Dasar Git
