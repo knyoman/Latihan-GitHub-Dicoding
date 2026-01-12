@@ -10,4 +10,4 @@ Hari ini saya mengikuti salah satu kelas di Dicoding dengan topik **Belajar Dasa
 4. Git Branches
 5. Kolaborasi dengan Tim
 6. Studi kasus kolaborasi dengan Tim
-7. GitHub sebagai Portofolio
+7. GitHub sebagai Portofolio 
